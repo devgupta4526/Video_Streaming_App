@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667124589113",
+    "project_id": "videogram-2d173",
+    "storage_bucket": "videogram-2d173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667124589113:android:638572b4ddde59663fe3e8",
+        "android_client_info": {
+          "package_name": "com.underground.VideoGram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667124589113-vjjkf305jofn71agphbiod2i6qro7qbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3MablsDWGyBUg_X_enMgqcHCunAU3ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667124589113-vjjkf305jofn71agphbiod2i6qro7qbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
